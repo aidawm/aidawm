@@ -47,4 +47,4 @@
    </table>
 </center>
 
-![snake gif](https://github.com/aidawm/aidawm/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/aidawm/aidawm/blob/output/github-contribution-grid-snake.svg)
