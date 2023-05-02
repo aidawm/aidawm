@@ -41,7 +41,7 @@
                <img src="https://github-readme-streak-stats.herokuapp.com/?user=aidawm&theme=dracula" /><br />
            </td>
            <td>
-               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidawm&layout=compact&hide_border=true&theme=dracula&langs_count=9"/>
+               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidawm&layout=compact&hide_border=true&theme=dracula&langs_count=6"/>
            </td>
        </tr>
    </table>
